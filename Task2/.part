@@ -1,0 +1,4 @@
+Person p1 = new Person();
+	Person p2 = new Person();
+	Person p3 = new Person();
+	
